@@ -5,10 +5,7 @@ end
 
 # return a valid hash with any key/value pair of your choice
 def my_hash
-  my_hash = {
-    :name => "Amanda",
-    :location => "USA"
-  }
+  {"name" => "Amanda"}
 end
 
 # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
