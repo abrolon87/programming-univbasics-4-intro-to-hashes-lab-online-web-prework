@@ -15,7 +15,7 @@ end
 
 # return a hash with a key :id assigned to positive integer
 def id_generator
-  int_hash = {:id => 2}
+  {:id => 2}
 end
 
 # return a hash that includes the key and value parameters passed into this method
